@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏雪セレナーデ",
+  "base_artist": "Susumu",
+  "createdAt": "2026-03-04T13:03:59.156652Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏雪セレナーデ",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_夏雪セレナーデ_susumu..txt"
+    }
+  ]
+}
